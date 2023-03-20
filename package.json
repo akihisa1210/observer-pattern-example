@@ -1,0 +1,24 @@
+{
+  "name": "observer-pattern-example",
+  "version": "1.0.0",
+  "description": "Example repository of the observer pattern",
+  "main": "dist/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akihisa1210/observer-pattern-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akihisa1210/observer-pattern-example/issues"
+  },
+  "homepage": "https://github.com/akihisa1210/observer-pattern-example#readme",
+  "devDependencies": {
+    "@tsconfig/node18": "^1.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
